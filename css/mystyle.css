@@ -1,0 +1,38 @@
+
+
+
+
+/* body background on all pages */
+
+body{
+
+background: rgb(12,186,186);
+background: linear-gradient(90deg, rgba(12,186,186,1) 9%, rgba(32,191,85,1) 80%);
+font-size: 1.4em;
+
+}
+
+#heading{
+text-transform: uppercase; 
+font-weight: 900; 
+color:#FFFFFF
+}
+
+
+#header-container{
+   
+}
+
+.img-fluid{
+    width: 80%;
+    opacity: 0.5;
+}
+#submit{
+    background-color:#39ff14;
+   
+    border-radius: 5px;
+}
+
+a{
+    color: #FFFFFF;
+}
